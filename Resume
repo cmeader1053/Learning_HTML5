@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Chris Meader Resume</title>
+  </head>
+  <body>
+    <h1>Chris Meader</h1>
+    <h2>(xxx)xxx-xxxx| cmeader1053@gmail.com</h2>
+    <h3><a href="https://www.linkedin.com/in/christophermeader2" target="_blank">LinkedIn</a></h3>
+    <h4><a href="https://github.com/cmeader1053" target="_blank">Github</a></h4>
+    <h3><u>Professional Overview</u></h3>
+    <p>
+      Information Systems graduate student focusing in Cybersecurity seeking
+      entry level opportunities in a cross functional team-based environment
+      providing exposure to areas of interest such as network configurations,
+      vulnerability analysis and cloud security architecture.
+    </p>
+    <h3><u>Education</u></h3>
+    <p>
+    <b>Central Michigan University</b>
+    M.S. in Information Systems, <i>Cybersecurity</i
+    </p>
+    <p>
+    <b>University of Toledo</b>
+    B.A in Human Resource Management
+    </p>
+    <h3><u>Relevant Courses</u></h3>
+    <ul style="list-style-type:circle;">
+      <li>Project Management</li>
+      <li>Networking Security</li>
+      <li>Network Administration</li>
+      <li>Database Managemeent for Business Systems</li>
+      <li>Application Development</li>
+      <li>System Analysis and Design</li>
+    </ul>
+    <h3><u>Technical Skills</u></h3>
+    <ul style="list-style-type:circle;">
+      <li><b>Languages:</b> VB.NET, Python V3, HTML5</li>
+      <li><b>Data Management:</b> SQL Scripting, MySQL Workbench, MS Access, MS Excel</li>
+      <li><b>Project Management:</b> MS Projects, Ms Visio, Strategic Planning, Relationship Management, Solution Implementation</li>
+      <li><b>Network & Security:</b> Windows Powershell, Mobile Device Setup & Configuration, Windows 7 & 10, macOS, Troubleshooting, Wireshark, Nmap</li>
+    </ul>
+    <h3><u>Projects</u></h3>
+    <b>Hotel HR, </b><i>Central Michigan University</i>
+    <p>Utilized VB.NET to design and develop an applicant tracking system that
+      identified user login credentials to preserve data integrity through
+      privilege restrictions but would allow data to be searched for and updated
+      in an Access database</P>
+    <b>Cirque du Soleil,</b><i> Central Michigan University</i>
+    <p>Analyze the current IT systems which are not sustaining businesses to
+      develop and implement a new system allowing for collaboration/information
+      sharing, condensing applications, update software, standardize servers,
+      OS, networks & desktops.</p>
+    <h3><u>Professional Experience</u></h3>
+    <b>Endevis, LLC. </b><i>Talent Acquisition Specialist</I><p>Nov. 2018 - June 2019</p>
+      <ul style="list-style-type:circle;">
+        <li>Manage the recruitment process for internal and external candidates supporting high volume Engineering positions</li>
+        <li>Work directly with cross functional teams to perform process root cause analysis for process bottlenecks and work to develop corrective actions</li>
+        <li>Report and analyze hiring data such as time to fill, candidate flow, and requisition pipeline metrics</li>
+      </ul>
+    <b>Kelly Services</b><i> Staffing Supervisor</i><p>Oct. 2017 to Nov. 2018</p>
+      <ul style="list-style-type:circle;">
+        <li>Served as Lead Recruiter to eight (8) total accounts varying in size and industry for skill trade positions.</li>
+        <li>Appointed as Team Leader during the candidate skill marketing campaign assisting Account Managers with the coordination, management and facilitation of campaign communications</li>
+        <li>Worked with various clients to develop and implement workforce solution strategies, conducted customer analysis to identify open positions and to develop appropriate staffing strategies</li>
+      </ul>
+    <b>Kroger</b><i> Division Talent Recruiter</i><p>Sept. 2016 to Oct. 2017</p>
+      <ul style="list-style-type:circle;">
+        <li>Instituted a customer first mentality to build and maintain strong relationships with hiring managers, district leadership and candidates</li>
+        <li>Tracked and analyzed staffing trends identifying process improvement initiatives and improve overall candidate experience</li>
+        <li>Assisted in the training of new store managers on process and procedure to assist in their successful transition</li>
+      </ul>
+  </body>
+</html>
